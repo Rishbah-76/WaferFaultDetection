@@ -8,6 +8,6 @@ This is ML model for Wafer Fault Detection, 3Models are trained and best one is 
 
 </br>
 # Output Image</br>
-![Screenshot](./output.jpg)
+![Screenshot]![](app/src/main/output.img)
 
 
