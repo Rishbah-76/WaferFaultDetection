@@ -7,6 +7,7 @@ This is ML model for Wafer Fault Detection, 3Models are trained and best one is 
 4) Go to localhost:5000
 
 </br>
-# Output Image![Screenshot]([./output.jpg](https://github.com/Rishbah-76/WaferFaultDetection/blob/main/output.jpg))
+# Output Image
+![Screenshot](https://github.com/Rishbah-76/WaferFaultDetection/blob/main/output.jpg)
 
 
