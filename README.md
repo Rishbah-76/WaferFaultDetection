@@ -4,5 +4,10 @@ This is ML model for Wafer Fault Detection, 3Models are trained and best one is 
 1) GO TO main.py
 2) python main.py
 3) Open any Browser
-4) go to localhost:5000
+4) Go to localhost:5000
+
+</br>
+# Output Image
+![image](https://user-images.githubusercontent.com/74089340/172833077-a1a01e2d-3214-420c-b383-4ce0500d8f65.png)
+
 
